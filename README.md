@@ -16,4 +16,4 @@ In order to use this builder for your project, edit the `codingame.yml` file and
 
 This builder can be used for any ruby runner capable of using the bundler project in `/project/target`.
 
-Compatible with `ruby-?-runner`.
+Compatible with `ruby-rspec-runner`.
